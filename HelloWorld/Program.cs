@@ -1,14 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+using HelloWorld.Common.Helpers;
 
 namespace HelloWorld {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("This is my 5 Hello World!");
+            Console.WriteLine(Adding.Adding2Integers(1, 2));
             Console.ReadLine();
 
         }

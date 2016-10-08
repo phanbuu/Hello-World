@@ -1,0 +1,4 @@
+C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Common.Helpers.dll
+C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Common.Helpers.pdb
+C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.dll
+C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.pdb

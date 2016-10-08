@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{C1384B2C-4685-46D2-9127-5867BFC332AA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{2BDCA557-C053-4243-819B-000856470E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Common.Helpers", "HelloWorld.Common.Helpers\HelloWorld.Common.Helpers.csproj", "{CE6E032E-C65E-4958-9452-F5EC2DDE3D39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +19,15 @@ Global
 		{C1384B2C-4685-46D2-9127-5867BFC332AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1384B2C-4685-46D2-9127-5867BFC332AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1384B2C-4685-46D2-9127-5867BFC332AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6E032E-C65E-4958-9452-F5EC2DDE3D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6E032E-C65E-4958-9452-F5EC2DDE3D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6E032E-C65E-4958-9452-F5EC2DDE3D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6E032E-C65E-4958-9452-F5EC2DDE3D39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE6E032E-C65E-4958-9452-F5EC2DDE3D39} = {2BDCA557-C053-4243-819B-000856470E64}
 	EndGlobalSection
 EndGlobal
