@@ -7,3 +7,6 @@ C:\My_Stuff\Examples\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\My_Stuff\GitHub\Hello-World\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\My_Stuff\GitHub\Hello-World\HelloWorld\obj\Debug\HelloWorld.exe
 C:\My_Stuff\GitHub\Hello-World\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\My_Stuff\GitHub\Hello-World\HelloWorld\bin\Debug\HelloWorld.exe
+C:\My_Stuff\GitHub\Hello-World\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\My_Stuff\GitHub\Hello-World\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
