@@ -2,3 +2,8 @@ C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Co
 C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Common.Helpers.pdb
 C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.dll
 C:\My_Stuff\GitHub\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.pdb
+E:\GITHUB\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Common.Helpers.dll
+E:\GITHUB\Hello-World\HelloWorld.Common.Helpers\bin\Debug\HelloWorld.Common.Helpers.pdb
+E:\GITHUB\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.csprojResolveAssemblyReference.cache
+E:\GITHUB\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.dll
+E:\GITHUB\Hello-World\HelloWorld.Common.Helpers\obj\Debug\HelloWorld.Common.Helpers.pdb
