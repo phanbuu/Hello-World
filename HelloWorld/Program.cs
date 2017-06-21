@@ -6,7 +6,7 @@ namespace HelloWorld {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine(Adding.Adding2Integers(140, 40));
+            Console.WriteLine(Adding.Adding2Integers(240, 40));
             Console.ReadLine();
 
         }
