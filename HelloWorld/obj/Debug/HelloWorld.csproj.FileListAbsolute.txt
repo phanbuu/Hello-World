@@ -20,3 +20,6 @@ E:\GITHUB\Hello-World\HelloWorld\bin\Debug\HelloWorld.pdb
 E:\GITHUB\Hello-World\HelloWorld\bin\Debug\HelloWorld.Common.Helpers.dll
 E:\GITHUB\Hello-World\HelloWorld\bin\Debug\HelloWorld.Common.Helpers.pdb
 E:\GITHUB\Hello-World\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\PathologyApps_MDL\MDL\Test\Hello-World\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\PathologyApps_MDL\MDL\Test\Hello-World\HelloWorld\obj\Debug\HelloWorld.exe
+E:\PathologyApps_MDL\MDL\Test\Hello-World\HelloWorld\obj\Debug\HelloWorld.pdb
